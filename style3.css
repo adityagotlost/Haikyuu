@@ -1,5 +1,4 @@
 
-/* Reset default styles */
 * {
   margin: 0;
   padding: 0;
@@ -8,7 +7,7 @@
 
 
 body{font-family:Georgia, 'Times New Roman', Times, serif;
-  zoom: 150%; /* Zooms entire page to 150% */
+  zoom: 150%;
 }
 
 .navbar{
@@ -165,3 +164,4 @@ footer {
 .social-icons a img:hover {
     transform: scale(1.2);
 }
+
